@@ -1,0 +1,4 @@
+asyncio
+colorama
+loguru
+mimesis
